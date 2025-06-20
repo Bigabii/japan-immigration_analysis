@@ -13,11 +13,7 @@ This project analyzes immigration trends in Japan (2000-2023), focusing on **Bra
 - **Aichi** hosts the largest Brazilian community (61.5k), concentrated in manufacturing.  
 - **Shimane** has the highest Brazilian/immigrant ratio (36.2%), suggesting niche opportunities. 
 
-## How to use
-1. Clone this repo:  
-   ```bash  
-   git clone https://github.com/seu-usuario/japan-immigration-analysis.git 
-
 ## Next steps
 - [] Salary analysis
 - [] Interative dashboard
+
