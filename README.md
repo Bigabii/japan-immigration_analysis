@@ -17,3 +17,9 @@ This project analyzes immigration trends in Japan (2000-2023), focusing on **Bra
 - [] Salary analysis
 - [] Interative dashboard
 
+#### Data sources:
+https://www.jil.go.jp/
+https://www.e-stat.go.jp/
+https://www.moj.go.jp/
+https://www.numbeo.com/cost-of-living/country_result.jsp?country=Japan
+
