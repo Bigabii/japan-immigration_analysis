@@ -24,5 +24,5 @@ In this part of the project, I explored labor conditions across Japanese prefect
 
 - [✔] Disparities in hours worked vs salary highlighted on map
 
-➡️ See full dashboard [on Tableau Public](https://public.tableau.com/app/profile/gabriela.yoshizaki/viz/Dashboard-Avgsalarybyprefecture2023MvsF/Dashboard1?publish=yes)
+➡️ See full dashboard [on Tableau Public](https://public.tableau.com/app/profile/gabriela.yoshizaki/viz/WorkHoursandHourlyWageinJapanbyGender/Dashboard2)
 
