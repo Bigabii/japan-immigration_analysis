@@ -1,4 +1,4 @@
-**Immigration in Japan: Data Analysis & Visualization**
+# ** PART 2: Immigration in Japan: Data Analysis & Visualization**
 
 This project explores immigration patterns in Japan using data analysis (Python, Pandas, SQL) and interactive visualizations (Tableau). 
 The goal is to identify the main immigrant nationalities, their status of residence, and their geographic concentration across the country.
