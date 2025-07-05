@@ -6,13 +6,13 @@ In this part of the project, I explored labor conditions across Japanese prefect
 - Gender pay gap by region
 - Weekly/Monthly working hours
 
-### 📊 Tools
+### Tools
 - Excel (data collected, cleaning)
 - Python (pandas, seaborn, matplotlib)
 - SQL (SQLite)
 - Tableau (map of average salary | average worked hours/month by gender)
 
-### 📍 Main insights:
+###  Main insights:
 - [✔] Highest gender pay gap regions: Kochi, Hyogo, Kanagawa, Ibaraki, Oita
 - [✔] Prefectures with highest salary: 
       For Men: Kochi, Hyogo, Kanagawa, Chiba, Kyoto
