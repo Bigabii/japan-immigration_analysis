@@ -5,14 +5,19 @@ The goal is to identify the main immigrant nationalities, their status of reside
 
 ##  Questions
 
-1. **What are the top 5 immigrant nationalities residing in Japan?**  
+1. **What are the top 10 immigrant nationalities by entry type in Japan in 2023**  
    → Filtered using Python (Pandas/SQL).
 
-2. **What are the most common occupations for each nationality?**  
-   → Displayed in an interactive bar chart in Tableau.
+2. **What are the most common status of residence for each nationalities? 
+How are these groups distributed across the country's prefectures?**  
+   → Displayed in an interactive Dashboard in Tableau.
 
-4. **How are these groups distributed across the country's prefectures?**  
-   → Shown in a geographical map visualization (Tableau).
+3. **What are the top 5 immigrant nationalities residing in Japan?**  
+   → Filtered using Python (Pandas/SQL).
+
+4. **How are these nationalities distributed across the country's prefectures?**
+   → Filtered using Python (Pandas/SQL).
+
 
 ## Dashboard on Tableau
 
@@ -22,22 +27,24 @@ The goal is to identify the main immigrant nationalities, their status of reside
 The dashboard includes:
 - Status of residence by nationality
 - Immigrant distribution across prefectures
-- Nationality dominance in selected regions
 
 ---
 ## Insights 
+#### → Final analysis on Excel 
 
 - The top 5 nationalities are: 🇨🇳 China, 🇰🇷 South Korea, 🇻🇳 Vietnam, 🇵🇭 Philippines, 🇧🇷 Brazil
 - Brazilians tend to reside in industrial regions such as Aichi, Shizuoka, and Mie.
-- Vietnamese immigrants are concentrated in areas with a high number of technical internships.
-
+- Vietnamese immigrants are concentrated in areas with a high number of technical internships like Tokyo, Aichi, Osaka.
+- China has the highest number of permanent residents, exchange students, and technical/humanities specialists among immigrants.
+- South Koreans tend to reside in larger cities such as Tokyo, Osaka, and Hyogo.
+- Filipinos are concentrated in Aichi, Tokyo, and Kanagawa.
 ---
+
 
 ## Next Steps
 
 - Correlate industrial zones with immigration clusters
 - Time-based analysis: How immigration trends have evolved
-- Add filters and interactivity to make the dashboard more user-driven
 
 ---
 
@@ -61,6 +68,6 @@ Feel free to connect or leave feedback!
 - **Python**: Data cleaning, filtering, and preprocessing
 - **Pandas & SQL**: Data manipulation and queries
 - **Tableau**: Data visualization (bar charts, maps)
-- **Excel**: Initial data exploration and formatting
+- **Excel**: Data exploration and formatting
 
 
