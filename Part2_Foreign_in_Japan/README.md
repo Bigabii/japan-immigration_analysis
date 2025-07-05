@@ -30,7 +30,7 @@ The dashboard includes:
 
 ---
 ## Insights 
-#### → Final analysis on Excel 
+#### → Final analysis on Excel (Part2_Foreign_in_Japan/Top 5 nationalities in Japan_analysis.xlsx)
 
 - The top 5 nationalities are: 🇨🇳 China, 🇰🇷 South Korea, 🇻🇳 Vietnam, 🇵🇭 Philippines, 🇧🇷 Brazil
 - Brazilians tend to reside in industrial regions such as Aichi, Shizuoka, and Mie.
